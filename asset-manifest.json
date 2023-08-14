@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portofilio/static/css/main.60e848ec.css",
-    "main.js": "/Portofilio/static/js/main.575ba67a.js",
+    "main.js": "/Portofilio/static/js/main.d9f08599.js",
     "static/media/Helvetica Neue Medium Extended.ttf": "/Portofilio/static/media/Helvetica Neue Medium Extended.372d58a9bf10285baebe.ttf",
     "index.html": "/Portofilio/index.html",
     "static/media/SF.otf": "/Portofilio/static/media/SF.d47ca113b833138a2989.otf",
     "main.60e848ec.css.map": "/Portofilio/static/css/main.60e848ec.css.map",
-    "main.575ba67a.js.map": "/Portofilio/static/js/main.575ba67a.js.map"
+    "main.d9f08599.js.map": "/Portofilio/static/js/main.d9f08599.js.map"
   },
   "entrypoints": [
     "static/css/main.60e848ec.css",
-    "static/js/main.575ba67a.js"
+    "static/js/main.d9f08599.js"
   ]
 }
